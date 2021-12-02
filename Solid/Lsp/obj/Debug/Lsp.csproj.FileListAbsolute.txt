@@ -1,0 +1,6 @@
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\obj\Debug\Lsp.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\bin\Debug\Lsp.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\bin\Debug\Lsp.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\bin\Debug\Lsp.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\obj\Debug\Lsp.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Lsp\obj\Debug\Lsp.pdb
