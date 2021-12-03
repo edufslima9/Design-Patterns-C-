@@ -1,0 +1,7 @@
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\bin\Debug\Isp.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\bin\Debug\Isp.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\bin\Debug\Isp.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\obj\Debug\Isp.csproj.AssemblyReference.cache
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\obj\Debug\Isp.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\obj\Debug\Isp.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Isp\obj\Debug\Isp.pdb
