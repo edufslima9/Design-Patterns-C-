@@ -1,0 +1,7 @@
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\bin\Debug\Dip.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\bin\Debug\Dip.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\bin\Debug\Dip.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\obj\Debug\Dip.csproj.AssemblyReference.cache
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\obj\Debug\Dip.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\obj\Debug\Dip.exe
+C:\Workspaces\Udemy\Design-patterns-cs\Solid\Dip\obj\Debug\Dip.pdb
