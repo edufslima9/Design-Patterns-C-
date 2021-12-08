@@ -1,0 +1,7 @@
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\bin\Debug\FactoryMethod.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.AssemblyReference.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\FactoryMethod\obj\Debug\FactoryMethod.pdb
