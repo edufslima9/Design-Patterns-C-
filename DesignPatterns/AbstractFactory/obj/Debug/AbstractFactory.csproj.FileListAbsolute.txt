@@ -1,0 +1,6 @@
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\bin\Debug\AbstractFactory.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\AbstractFactory\obj\Debug\AbstractFactory.pdb
