@@ -1,0 +1,7 @@
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\bin\Debug\Builder.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\bin\Debug\Builder.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\bin\Debug\Builder.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\obj\Debug\Builder.csproj.AssemblyReference.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\obj\Debug\Builder.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\obj\Debug\Builder.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Builder\obj\Debug\Builder.pdb
