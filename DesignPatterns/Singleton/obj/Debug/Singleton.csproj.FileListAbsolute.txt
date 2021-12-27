@@ -1,0 +1,7 @@
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\bin\Debug\Singleton.exe.config
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\bin\Debug\Singleton.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\bin\Debug\Singleton.pdb
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\obj\Debug\Singleton.exe
+C:\Workspaces\Udemy\Design-patterns-cs\DesignPatterns\Singleton\obj\Debug\Singleton.pdb
